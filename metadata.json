@@ -1,6 +1,0 @@
-{
-  "name": "Solenz Utility Hub",
-  "description": "Premium Solenz Studio utility with Floating Overlay Launcher and High-Speed Video/Audio Separator Downloader.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
